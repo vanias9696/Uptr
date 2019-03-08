@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/runUnitTests.dir/run_unit_tests.cpp.o CMakeFiles/runUnitTests.dir/uniqueptrtest.cpp.o  -o runUnitTests ../lib/libgmock.a ../lib/libgtest.a ../lib/libgtest_main.a -lpthread ../lib/libgtest.a 
